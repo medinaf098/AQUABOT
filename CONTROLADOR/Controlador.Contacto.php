@@ -71,4 +71,4 @@ class ControladorContacto
 
 
 
-/* Generador de Objeto Contacto */
+/* Generador de Objeto Contacto *//* Generador de Objeto Contacto */
